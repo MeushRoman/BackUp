@@ -1,0 +1,7 @@
+C:\Users\Роман\Source\Repos\BackUpHT\BackUpHT\bin\Debug\BackUpHT.exe.config
+C:\Users\Роман\Source\Repos\BackUpHT\BackUpHT\bin\Debug\BackUpHT.exe
+C:\Users\Роман\Source\Repos\BackUpHT\BackUpHT\bin\Debug\BackUpHT.pdb
+C:\Users\Роман\Source\Repos\BackUpHT\BackUpHT\obj\Debug\BackUpHT.csprojAssemblyReference.cache
+C:\Users\Роман\Source\Repos\BackUpHT\BackUpHT\obj\Debug\BackUpHT.csproj.CoreCompileInputs.cache
+C:\Users\Роман\Source\Repos\BackUpHT\BackUpHT\obj\Debug\BackUpHT.exe
+C:\Users\Роман\Source\Repos\BackUpHT\BackUpHT\obj\Debug\BackUpHT.pdb
